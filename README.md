@@ -24,7 +24,7 @@ Proyek ini menganalisis data karyawan internal perusahaan (employee-level HR rec
 | Data Cleaning & Preparation | SQL (`ALTER TABLE`, `UPDATE`, `STR_TO_DATE`, `TIMESTAMPDIFF`) |
 | Analysis & Querying | SQL (Aggregations, `CASE WHEN`, Subqueries, `GROUP BY`) |
 | Visualization / Dashboard | Microsoft Power BI Desktop |
-| Data Source | `Human_Resources.csv` (raw employee-level HR records) |
+| Data Source | `Human_Resources.csv` |
 
 ---
 
