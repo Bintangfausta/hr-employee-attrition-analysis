@@ -24,7 +24,7 @@ Proyek ini menganalisis data karyawan internal perusahaan (employee-level HR rec
 | Data Cleaning & Preparation | SQL (`ALTER TABLE`, `UPDATE`, `STR_TO_DATE`, `TIMESTAMPDIFF`) |
 | Analysis & Querying | SQL (Aggregations, `CASE WHEN`, Subqueries, `GROUP BY`) |
 | Visualization / Dashboard | Microsoft Power BI Desktop |
-| Data Source | `Human_Resources.csv` |
+| Data Source | `human_resources.csv` |
 
 ---
 
@@ -108,8 +108,7 @@ Insight berikut disintesis dari hasil eksekusi 11 query bisnis dan dashboard Pow
 hr-employee-attrition-analysis/
 │
 ├── README.md                              # Project overview and business insights
-├── data/
-│   └── Human_Resources.csv                # Raw source dataset
+├──  human_resources.csv                   # Raw source dataset
 │
 ├── hr_data_cleaning.sql                   # Data cleaning & preparation (MySQL)
 ├── hr_exploratory_data_analysis.sql       # EDA & 11 business problem queries (MySQL)
@@ -118,8 +117,8 @@ hr-employee-attrition-analysis/
 │   ├── query_results.docx                 # Hasil mentah seluruh 11 query (tabel & screenshot)
 │   └── jobtitle_question7.csv             # Detail hasil Q7: distribusi 185 job title
 │
-└── assets/
-    └── dashboard_employee_distribution_report.pdf   # Dashboard Power BI (ringkasan visual)
+└── dashboard_employee_distribution_report.pdf   # Dashboard Power BI (ringkasan visual)
+└── dashboard_employee_distribution_report.pdf   # Dashboard Power BI (ringkasan visual)
 ```
 
 ---
