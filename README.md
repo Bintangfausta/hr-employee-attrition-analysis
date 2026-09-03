@@ -113,12 +113,8 @@ hr-employee-attrition-analysis/
 ├── hr_data_cleaning.sql                   # Data cleaning & preparation (MySQL)
 ├── hr_exploratory_data_analysis.sql       # EDA & 11 business problem queries (MySQL)
 │
-├── outputs/
-│   ├── query_results.docx                 # Hasil mentah seluruh 11 query (tabel & screenshot)
-│   └── jobtitle_question7.csv             # Detail hasil Q7: distribusi 185 job title
-│
-└── dashboard_employee_distribution_report.pdf   # Dashboard Power BI (ringkasan visual)
-└── dashboard_employee_distribution_report.pdf   # Dashboard Power BI (ringkasan visual)
+└── dashboard_employee_distribution_report.pdf   # Dashboard Power BI (pdf)
+└── dashboard_employee_distribution_report.pbix   # Dashboard Power BI
 ```
 
 ---
