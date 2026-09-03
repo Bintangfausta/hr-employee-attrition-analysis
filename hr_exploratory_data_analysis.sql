@@ -1,5 +1,5 @@
 /* ============================================================================
-   PROJECT   : HR Employee Attrition Analysis
+   PROJECT   : HR Employee Attrition & Workforce Diagnostics Analysis
    FILE      : hr_exploratory_data_analysis.sql
    PURPOSE   : Exploratory data analysis (EDA) on the cleaned HR dataset —
                answers 11 core business questions about headcount, diversity,
