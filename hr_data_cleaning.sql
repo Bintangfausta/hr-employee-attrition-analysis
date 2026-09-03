@@ -1,5 +1,5 @@
 /* ============================================================================
-   PROJECT   : HR Employee Attrition Analysis
+   PROJECT   : HR Employee Attrition & Workforce Diagnostics Analysis
    FILE      : hr_data_cleaning.sql
    PURPOSE   : Clean and prepare the raw HR employee dataset for analysis
    PREREQ    : Import Human_Resources.csv into a table named `hr`
