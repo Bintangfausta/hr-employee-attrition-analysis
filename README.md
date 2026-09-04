@@ -1,5 +1,7 @@
 # HR Employee Attrition & Workforce Diagnostics Analysis
 
+![alt text](https://github.com/Bintangfausta/hr-employee-attrition-analysis/blob/main/asset/img1.png?raw=true)
+
 ## 1. Executive Summary
 
 Proyek ini menganalisis data karyawan internal perusahaan (employee-level HR records) untuk mendiagnosis pola turnover, komposisi demografis, dan struktur tenaga kerja di seluruh departemen dan lokasi. Analisis ini tidak berhenti pada pelaporan headcount sederhana, melainkan menjawab pertanyaan bisnis inti: **segmen karyawan, departemen, dan pola tenure mana yang paling berisiko terhadap attrition — dan strategi retensi apa yang perlu diprioritaskan oleh HR leadership?**
